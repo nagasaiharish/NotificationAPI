@@ -1,6 +1,6 @@
 # NotificationsAPI
 simple API using node and expressJS .
-> Newsletter signup using Node.js/Express and the Mailchimp API. Fill in your [audience ID] and your [API Key] in app.js
+> Notification's signup using Node.js/Express and the Mailchimp API. Fill in your [audience ID] and your [API Key] in app.js
 
 ## Quick Start
 
